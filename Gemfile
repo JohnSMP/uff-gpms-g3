@@ -47,7 +47,7 @@ gem 'bootstrap', '~> 4.3', '>= 4.3.1'
 gem 'cancancan'
 gem 'commontator', '~> 5.1.0'
 # Authentication
-gem 'devise', '~> 4.6', '>= 4.6.2'
+gem 'devise', '~> 4.7'
 # jQuery mask
 gem 'font-awesome-sass', '~> 5.8', '>= 5.8.1'
 # Images storage
